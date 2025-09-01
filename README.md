@@ -1,4 +1,4 @@
-# 📈 Customer Response Prediction – Direct Mail Campaign
+# 📈 Customer Response Prediction 
 
 This project focuses on predicting **customer responses to a direct mail campaign** and optimizing which customers should be targeted in a second wave of outreach. The work involved **building predictive models, evaluating profitability, and generating actionable mailing lists** that balance cost with expected returns.
 
