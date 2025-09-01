@@ -43,8 +43,8 @@ Key challenges included class imbalance (few responders vs. many non-responders)
 ## 📂 Repository Contents
 
 - `Analysis_Notebook.ipynb` – Python notebook with full modeling pipeline.  
-- `customer_wave2.csv` – Output file with mailing recommendations (True/False).  
-- `Report.pdf` – Executive summary of findings and recommendations.  
+- `to_target.csv` – Output file with mailing recommendations (True/False).  
+- `Case Study.pdf` – Includes the details of the case study.  
 
 ---
 
