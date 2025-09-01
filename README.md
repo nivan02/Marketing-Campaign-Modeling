@@ -42,7 +42,7 @@ Key challenges included class imbalance (few responders vs. many non-responders)
 
 ## 📂 Repository Contents
 
-- `Analysis_Notebook.ipynb` – Python notebook with full modeling pipeline.  
+- `Analysis.ipynb` – Python notebook with full modeling pipeline.  
 - `to_target.csv` – Output file with mailing recommendations (True/False).  
 - `Case Study.pdf` – Includes the details of the case study.  
 
